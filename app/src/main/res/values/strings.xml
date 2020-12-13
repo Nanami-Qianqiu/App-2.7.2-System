@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App 2.7.2 System</string>
+    <string name="us_name">Username</string>
+    <string name="ps_name">Password</string>
+    <string name="bt_name">Login</string>
+    <string name="bt_name2">Sign in</string>
+</resources>
